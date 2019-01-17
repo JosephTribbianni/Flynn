@@ -62,7 +62,9 @@ Just realize elemental function
 
 ### Requirements
 
- django
+django
+
+mysql
 
 no other requirements that I remind of
 
