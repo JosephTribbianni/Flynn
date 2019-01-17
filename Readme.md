@@ -70,6 +70,6 @@ no other requirements that I remind of
 
 a simple report generate screenshot
 
-![20190117130028](C:/Users/lenovo/Desktop/20190117130028.png)
+![20190117130028](https://raw.githubusercontent.com/JosephTribbianni/Flynn/master/images/20190117130028.png)
 
 
